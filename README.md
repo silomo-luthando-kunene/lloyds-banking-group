@@ -15,6 +15,4 @@ A brief description of the business problem.
 2. **Task 2: Prototyping** - Developed a model achieving a [X]% accuracy rate.
 3. **Task 3: Insights** - Translated technical findings into a slide deck for stakeholders.
 
-## 📜 Certification
-[Link to your certificate or a screenshot of it]
 
